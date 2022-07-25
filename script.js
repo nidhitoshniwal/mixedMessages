@@ -20,6 +20,6 @@ console.log("Your Fantasy Futsal team:")
 console.log("Defender: ", randomPlayer(defender));
 console.log("midFielder: ", randomPlayer(midFielder));
 console.log("Attacker 1: ", randomPlayer(attacker));
-console.log("Attacker 2: ", randomPlayer(attacker));
+console.log("Attacker 2: ", randomPlayer(striker));
 console.log("Goal Keeper: ", randomPlayer(goalKeeper));
  
